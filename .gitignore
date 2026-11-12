@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# Personal study material (Anki decks and their diagrams) - not part of the project
+By Topic/
+Diagrams/
